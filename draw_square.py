@@ -3,7 +3,7 @@ import turtle
 def draw_square():
 
     window = turtle.Screen()
-    window.bgcolor("red")
+    window.bgcolor("blue")
 
     brad = turtle.Turtle()
     brad.forward(100)
