@@ -12,7 +12,10 @@ def draw_square():
     brad.forward(100)
     brad.right(90)
     brad.forward(100)
-    brad.right(90)
+    
+    brad.forward(100)
+    
+    
     window.exitonclick()
     
 def draw_rectangle():
